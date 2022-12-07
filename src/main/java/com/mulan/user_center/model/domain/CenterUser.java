@@ -9,7 +9,7 @@ import lombok.ToString;
 
 /**
  * 用户中心表
- * @TableName center_user
+ * @MyTableName center_user
  */
 @TableName(value ="center_user")
 @Data
